@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hello, I'm [Your Name]! 👋
 
-<!--
-**MelloJello6446/MelloJello6446** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer with a focus on game development using Unreal Engine. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
+- 🎮 Game Developer
+- 🌟 Unreal Engine Enthusiast
+- 💻 C++ & C# Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- **Languages:** C++, C#
+- **Game Engine:** Unreal Engine
+- **Tools:** Visual Studio, Git
+
+## Projects
+- 🤔 [SimpleClicker](https://github.com/MelloJello6446/SimpleClicker)
+- 🚀 [itch.io](https://melloyellojelllo.itch.io)
+
+
+## Contact Me
+- 📧 Email: [mellojello6446@gmail.com](mailto:mellojello6446@gmail.com)
+- 🐦 Twitter: [@MelloJello6446](https://twitter.com/MelloJello6446)
+
+
+
+
+Feel free to explore my repositories and reach out to me for collaboration or inquiries!
