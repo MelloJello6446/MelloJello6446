@@ -15,8 +15,9 @@ I'm a passionate software developer with a focus on game development using Unrea
 
 ## Projects
 - 🤔 [SimpleClicker](https://github.com/MelloJello6446/SimpleClicker)
+- 🧠 [Even_Odd](https://github.com/MelloJello6446/Even_Odd)
 - 🚀 [itch.io](https://melloyellojelllo.itch.io)
-- 🧠 [Even_Odd](https://github.com/MelloJello6446/Even_Odd))
+
 
 ## Contact Me
 - 📧 Email: [mellojello6446@gmail.com](mailto:mellojello6446@gmail.com)
