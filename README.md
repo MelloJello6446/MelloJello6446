@@ -10,7 +10,6 @@ I'm a passionate software developer with a focus on game development using Unrea
 ## Tech Stack
 - **Languages:** C++, C#
 - **Game Engine:** Unreal Engine
-- 
 - **Tools:** Visual Studio, Git
 
 ## Projects
